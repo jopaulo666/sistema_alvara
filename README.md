@@ -1,1 +1,1 @@
-Versão 1.0 do Sistema de Cadastro de Clientes
+Sistema de cadastro de empresas e pessoas físicas para emissão de alvará de funcionamento municipal
